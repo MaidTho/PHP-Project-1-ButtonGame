@@ -1,11 +1,15 @@
 ---------------------------------------------------
+
         1.0. Project Introduction.
+
 ---------------------------------------------------
 
 The purpose of this project is to showcase my PHP, SQL and documentation skills while showcasing a simple button game, try to beat the highscore!
 
 ---------------------------------------------------
+
         2.0. Installation / Prerequisites.
+
 ---------------------------------------------------
 
 Prerequisite
@@ -20,7 +24,9 @@ Installation
 •  Make sure code folder is placed into XAMMP > HTDOC folder set up to run on localhost.
 
 ---------------------------------------------------
+
         3.0. Latest Release Notes.
+
 ---------------------------------------------------
 
 • Update 1.0 Initial Launch!    @   01/11/24  2.10PM
@@ -33,7 +39,9 @@ Installation
 •   General Code Clean Up.
     
 ---------------------------------------------------
+
         4.0. Features Included.
+
 ---------------------------------------------------
 
 •  Fully functional leaderboard.
@@ -41,7 +49,9 @@ Installation
 •  Modern CSS design implementation.
 
 ---------------------------------------------------
+
         5.0. Future Features.
+
 ---------------------------------------------------
 
 • To be continued ... ?
